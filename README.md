@@ -1,1 +1,2 @@
-# git_test1
+# Welcome to My Firs Odin Project Repo!
+"Hello Odin"
