@@ -1,0 +1,5 @@
+Hello and welcome to the first Git repo.
+
+I am beginning to work on the Odin project and have just started uing Linux!
+
+Very exciting times...
